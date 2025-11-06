@@ -10,7 +10,7 @@ Uma IA simples, leve e versátil, projetada para integrar e unificar diversas fu
 A Luna-IA oferece três modos distintos, cada um adaptado a diferentes necessidades:
 
 ### Modo Busca  
-- ** Maior precisão **: respostas mais lentas, mas com alta confiabilidade e profundidade.  
+- **Maior precisão**: respostas mais lentas, mas com alta confiabilidade e profundidade.  
 - Ideal para: pesquisas, tarefas acadêmicas, resolução de problemas complexos.
 
 ### Modo Normal  
