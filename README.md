@@ -1,5 +1,5 @@
 # Luna-IA  
-![  Banner da Luna-IA  ]  (  https://via.placeholder.com/800x200?text=Luna-IA+-+Logical+Unified+Neural+Assistant  )  **L.U.N.A. – Logical Unified Neural Assistant**
+**L.U.N.A. – Logical Unified Neural Assistant**
 
 Uma IA simples, leve e versátil, projetada para integrar e unificar diversas funcionalidades em um único assistente inteligente. Desenvolvida pela **Velk**, a Luna-IA é ideal tanto para uso pessoal quanto para integração em projetos, jogos e aplicações empresariais.
 
