@@ -9,7 +9,12 @@ Uma IA simples, leve e versátil, projetada para integrar e unificar diversas fu
 
 A Luna-IA oferece três modos distintos, cada um adaptado a diferentes necessidades:
 
-### Modo Normal  
+### Modo Normal
+- **Equilibrio**: Uma versão equilibrada entre desenpenho e qualidade.
+- Ideal para: perguntas simples e rapidas.
+- *Observação*: Pode não rodar muito bem em computadores mais simples
+
+### Modo Busca  
 - **Maior precisão**: respostas mais lentas, mas com alta confiabilidade e profundidade.  
 - Ideal para: pesquisas, tarefas acadêmicas, resolução de problemas complexos.
 
@@ -29,7 +34,7 @@ A Luna-IA oferece três modos distintos, cada um adaptado a diferentes necessida
 
 | Versão        | Onde Roda               | Funcionalidades                     | Custo     |
 |---------------|-------------------------|-------------------------------------|-----------|
-| **Free**      | Apenas no seu PC        | Acesso ao **Modo Normal** (versão básica) | Gratuito  |
+| **Free**      | Apenas no seu PC        | Acesso ao **Modo Rapido** (versão básica) | Gratuito  |
 | **Basic**     | Apenas no seu PC        | Acesso a **todos os modos da IA**, exceto Assistente | Pago      |
 | **Cloud**     | Servidores da Velk      | Todos os modos, incluindo **Assistente em tempo real** + atualizações contínuas | Pago |
 
@@ -37,7 +42,7 @@ A Luna-IA oferece três modos distintos, cada um adaptado a diferentes necessida
 > Por enquanto, **apenas o Modo Rapido estará disponível**, rodando localmente no seu computador.  
 > Isso corresponde à **versão Free** — ou seja, totalmente gratuita e offline.  
 >  
-> Os demais modos (Busca, Assistente) e as versões Basic/Cloud serão liberados gradualmente após o dia 1º de dezembro, à medida que a IA for adaptada para oferecer estabilidade, segurança e desempenho confiáveis. 
+> Os demais modos (Busca, Normal, Assistente) e as versões Basic/Cloud serão liberados gradualmente após o dia 1º de dezembro, à medida que a IA for adaptada para oferecer estabilidade, segurança e desempenho confiáveis. 
 
 ---
 
