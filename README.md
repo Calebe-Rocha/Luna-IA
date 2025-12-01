@@ -38,13 +38,26 @@ A Luna-IA oferece três modos distintos, cada um adaptado a diferentes necessida
 | **Basic**     | Apenas no seu PC        | Acesso a **todos os modos da IA**, exceto Assistente | Pago      |
 | **Cloud**     | Servidores da Velk      | Todos os modos, incluindo **Assistente em tempo real** + atualizações contínuas | Pago |
 
-> **⚠️ Lançamento inicial (1º de dezembro de 2025):**  
 > Por enquanto, **apenas o Modo Rapido estará disponível**, rodando localmente no seu computador.  
 > Isso corresponde à **versão Free** — ou seja, totalmente gratuita e offline.  
 >  
 > Os demais modos (Busca, Normal, Assistente) e as versões Basic/Cloud serão liberados gradualmente após o dia 1º de dezembro, à medida que a IA for adaptada para oferecer estabilidade, segurança e desempenho confiáveis. 
 
 ---
+## Modo Rapido lançado:
+✅ Pré-requisitos
+
+Python 3.10 ou superior instalado
+
+Ollama instalado e funcionando
+
+Download Ollama
+
+Conexão com a API local do Ollama em http://localhost:11434
+
+Ambiente com suporte a áudio (para o TTS):
+
+pygame precisa conseguir inicializar o mixer de som
 
 ## 🎮 Integração com Jogos
 
