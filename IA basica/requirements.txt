@@ -1,0 +1,5 @@
+numpy
+pyfiglet
+pygame
+edge-tts
+requests
