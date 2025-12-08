@@ -1,0 +1,7 @@
+numpy
+pyfiglet
+pygame
+edge-tts
+requests
+PyPDF2
+python-docx
